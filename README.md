@@ -1,2 +1,3 @@
 # Rainbow
 TEST
+6
